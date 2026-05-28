@@ -1,0 +1,1 @@
+var json_Tampere_20 = {"type":"FeatureCollection","name":"Tampere_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Nimi":"Tampere"},"geometry":{"type":"Point","coordinates":[23.810715993398379,61.499730778727205]}}]}

@@ -1,0 +1,1 @@
+var json_DCsubstation_13 = {"type":"FeatureCollection","name":"DCsubstation_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Selite":"Grid connection option  \r\nat the DC substation"},"geometry":{"type":"Point","coordinates":[25.167354040625778,61.855055972384669]}}]}

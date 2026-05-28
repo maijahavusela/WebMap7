@@ -1,0 +1,1 @@
+var json_DistancetoHelsinki_18 = {"type":"FeatureCollection","name":"DistancetoHelsinki_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Selite":"Helsinki CBD \r\n190 km\r\n2,5 h drive (South)"},"geometry":{"type":"Point","coordinates":[25.16239044898489,61.848043013949805]}}]}

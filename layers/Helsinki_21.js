@@ -1,0 +1,1 @@
+var json_Helsinki_21 = {"type":"FeatureCollection","name":"Helsinki_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Nimi":"Helsinki"},"geometry":{"type":"Point","coordinates":[24.943820666532336,60.165971150186273]}}]}
